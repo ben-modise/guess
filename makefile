@@ -1,5 +1,5 @@
 README.md: guessinggame.sh
-	echo "#Guessing Game Project" > README.md
+	echo "#Guessing Game Project \n" > README.md
 	
 	echo "In this project we have a script -guessinggame.sh- " >> README.md
 	echo "that asks you to guess how many files" >> README.md
